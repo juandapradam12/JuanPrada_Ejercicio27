@@ -4,6 +4,8 @@
 #PBS -m abe
 #PBS -N JuanPrada_Ejercicio27
 
+module load mpich/3.2.1
+
 cd /hpcfs/home/fisi4028/jd.prada11/JuanPrada_Ejercicio27/
 
 module load mpich/3.2.1
